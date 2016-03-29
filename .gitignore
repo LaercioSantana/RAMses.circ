@@ -1,0 +1,7 @@
+[Bb]in
+[Tt]mp
+*.bak
+*~
+MontadorRamSes/.*
+MontadorRamSes/[Bb]]in
+

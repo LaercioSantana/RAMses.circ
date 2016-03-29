@@ -1,0 +1,13 @@
+LDR A IMD;
+0;
+ADD A IMD;
+2;
+LDR B IMD;
+10;
+NEG B DIR;
+STR A DIR;
+81;
+ADD B DIR;
+81;
+JN ? DIR;
+02;
